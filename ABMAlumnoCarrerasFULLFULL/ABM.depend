@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1569279092 source:c:\users\alumno\desktop\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1569285938 source:c:\users\alumno\desktop\abmalumnoautoincremental\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1569891375 source:c:\users\alumno\desktop\abmalumnocarreras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"alumno.h"
+	"carrera.h"
+
+1569881520 source:c:\users\alumno\desktop\abmalumnocarreras\carrera.c
+	"carrera.h"
+	<stdio.h>
+	<string.h>
+
+1569881474 c:\users\alumno\desktop\abmalumnocarreras\carrera.h
+
+1569881256 c:\users\alumno\desktop\abmalumnocarreras\alumno.h
+	"carrera.h"
+
+1569881376 source:c:\users\alumno\desktop\abmalumnocarreras\alumno.c
+	"alumno.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570237243 source:c:\users\alumno\desktop\abmalumnocarrerasfullfull\alumno.c
+	"alumno.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570237243 c:\users\alumno\desktop\abmalumnocarrerasfullfull\alumno.h
+	"carrera.h"
+
+1570237244 c:\users\alumno\desktop\abmalumnocarrerasfullfull\carrera.h
+
+1570237243 source:c:\users\alumno\desktop\abmalumnocarrerasfullfull\carrera.c
+	"carrera.h"
+	<stdio.h>
+	<string.h>
+
+1570459998 source:c:\users\nacho\desktop\abmalumnocarrerasfullfull\alumno.c
+	"alumno.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570237244 c:\users\nacho\desktop\abmalumnocarrerasfullfull\alumno.h
+	"carrera.h"
+
+1570237246 c:\users\nacho\desktop\abmalumnocarrerasfullfull\carrera.h
+
+1570237244 source:c:\users\nacho\desktop\abmalumnocarrerasfullfull\carrera.c
+	"carrera.h"
+	<stdio.h>
+	<string.h>
+
+1570475095 source:c:\users\nacho\desktop\abmalumnocarrerasfullfull\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"alumno.h"
+	"carrera.h"
+
+1571326170 source:c:\users\nacho\desktop\trabajos\abmalumnocarrerasfullfull\alumno.c
+	"alumno.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570237244 c:\users\nacho\desktop\trabajos\abmalumnocarrerasfullfull\alumno.h
+	"carrera.h"
+
+1570237246 c:\users\nacho\desktop\trabajos\abmalumnocarrerasfullfull\carrera.h
+
+1571579674 source:c:\users\nacho\desktop\trabajos\abmalumnocarrerasfullfull\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"alumno.h"
+	"carrera.h"
+
+1571324278 source:c:\users\nacho\desktop\trabajos\abmalumnocarrerasfullfull\carrera.c
+	"carrera.h"
+	<stdio.h>
+	<string.h>
+
